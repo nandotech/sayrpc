@@ -8,7 +8,7 @@ import (
 	"log"
 	"os"
 
-	pb "github.com/nandotech/jffscratchpad/sayrpc/api"
+	pb "github.com/nandotech/sayrpc/api"
 
 	"google.golang.org/grpc"
 )

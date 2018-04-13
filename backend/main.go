@@ -1,7 +1,6 @@
 package main
 
 import (
-	//	"context"
 	"flag"
 	"fmt"
 	"io/ioutil"
@@ -9,7 +8,7 @@ import (
 	"os/exec"
 
 	"github.com/Sirupsen/logrus"
-	pb "github.com/nandotech/jffscratchpad/sayrpc/api"
+	pb "github.com/nandotech/sayrpc/api"
 	"golang.org/x/net/context"
 	"google.golang.org/grpc"
 )
