@@ -15,7 +15,6 @@
 debug.*
 sayrpc.*
 sayrpc
-*backend*
 *api*
 *say*
 project.json
